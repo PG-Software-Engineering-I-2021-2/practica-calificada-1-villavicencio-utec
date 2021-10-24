@@ -1,11 +1,8 @@
 GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
 practica-calificada-1-villavicencio-utec,pc1,Oferta,12,0,0,0,5,0,1,0,1,0
-practica-calificada-1-villavicencio-utec,pc1,OliverVirtual,148,0,14,0,25,0,16,0,9,0
+practica-calificada-1-villavicencio-utec,pc1,OliverVirtual,135,0,10,0,23,0,14,0,9,0
 practica-calificada-1-villavicencio-utec,pc1,LibroCopia,9,0,0,0,4,0,2,0,2,0
-practica-calificada-1-villavicencio-utec,pc1,Automovil,29,0,2,0,7,0,3,0,2,0
 practica-calificada-1-villavicencio-utec,pc1,Autor,9,0,0,0,4,0,1,0,1,0
 practica-calificada-1-villavicencio-utec,pc1,Estudiante,34,0,0,0,13,0,7,0,7,0
-practica-calificada-1-villavicencio-utec,pc1,Vehiculo,32,12,2,0,6,5,2,1,1,1
 practica-calificada-1-villavicencio-utec,pc1,Libro,18,0,0,0,7,0,1,0,1,0
 practica-calificada-1-villavicencio-utec,pc1,Main,12,0,0,0,4,0,3,0,3,0
-practica-calificada-1-villavicencio-utec,pc1,Camion,0,62,0,4,0,13,0,5,0,3

@@ -1,4 +1,4 @@
-package pc1;
+package apps;
 
 
 import org.junit.Assert;
@@ -8,7 +8,6 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-import static org.junit.Assert.*;
 public class OliverVirtualTest {
     @Test
     public void test(){

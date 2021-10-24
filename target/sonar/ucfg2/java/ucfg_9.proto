@@ -1,43 +1,28 @@
 
 Upc1.OliverVirtual#desvincularEstudianteLibro(Ljava/lang/Integer;Ljava/lang/Integer;)Z—
-Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java$ $(-"3*Â
-2—
-Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java%1 %(6"¢
-—
-Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java%* %(7
-""*ï
-3—
-Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java% %(ÇÄ
-—
-Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java% %((
-%0boolean"7pc1.OliverVirtual#condicionMinima(Ljava/lang/Integer;)Z*
-pc1.OliverVirtual*#
-!
-idEstudiantejava.lang.Integer2$condicionMinima(Ljava/lang/Integer;)*
-2
-1*®
+Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java$ $(-"1*®
 1—
 Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java& &(ä
 á
 —
 Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java& &(
-%1java.util.Map"__id***(
+%0java.util.Map"__id***(
 pc1.OliverVirtual"
 libroEstudiante÷
 ô
 —
 Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java& &($
-%2java.util.HashMap"__mapGet*
+%1java.util.HashMap"__mapGet*
 
-%1java.util.Map*
+%0java.util.Map*
 
 idLibrojava.lang.Integerˆ
 …
 —
 Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java& &(=
-%3java.lang.Boolean"__mapSet*
+%2java.lang.Boolean"__mapSet*
 
-%2java.util.HashMap*#
+%1java.util.HashMap*#
 !
 idEstudiantejava.lang.Integer*
 """¢
