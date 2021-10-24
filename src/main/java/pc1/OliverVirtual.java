@@ -27,19 +27,19 @@ public class OliverVirtual {
         return estudiante.getCorreo() != null && estudiante.getCorreo() != "";
     }
     public boolean vincularEstudianteLibro(Integer idEstudiante, Integer idLibro){
-        if(condicionMinima(idEstudiante)) return false;
+//        if(condicionMinima(idEstudiante)) return false;
         libroEstudiante.computeIfAbsent(idLibro, k -> new HashMap<Integer, Boolean>());
         libroEstudiante.get(idLibro).put(idEstudiante, true);
         return true;
     }
 
     public boolean desvincularEstudianteLibro(Integer idEstudiante, Integer idLibro){
-        if(condicionMinima(idEstudiante)) return false;
+//        if(condicionMinima(idEstudiante)) return false;
         libroEstudiante.get(idLibro).put(idEstudiante, false);
         return true;
     }
     public boolean actualizarLibros(Integer idLibro,Integer cantidad){
-        var estudiantesLibros = libroEstudiante.get(libroEstudiante);
+        var estudiantesLibros = libroEstudiante.get(idLibro);
         for (Map.Entry<Integer, Boolean> entry : estudiantesLibros.entrySet()) {
             if(entry.getValue()) estudiantes.get(entry.getKey()).notificarLibro();
         }

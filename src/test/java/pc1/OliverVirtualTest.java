@@ -4,6 +4,7 @@ package pc1;
 import org.junit.Assert;
 import org.junit.Test;
 
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
@@ -20,11 +21,16 @@ public class OliverVirtualTest {
         oliverVirtual.registrarEstudiante(4,"Jesus", "jesus@gmail.com","959388804");
         oliverVirtual.registrarEstudiante(5,"Alonso", "alonso@gmail.com","959388805");
 
-        List<LibroCopia> acoLibroCopia  = null;
+        List<LibroCopia> acoLibroCopia  = new ArrayList<LibroCopia>();;
         for(int i = 0; i<10;i++){
             LibroCopia lLibroCopia = new LibroCopia(Integer.toString(i));
             acoLibroCopia.add(lLibroCopia);
         }
+//        LibroCopia lLibroCopia1 = new LibroCopia("1");
+//        LibroCopia lLibroCopia2 = new LibroCopia("1");
+//        LibroCopia lLibroCopia3 = new LibroCopia("3");
+//        acoLibroCopia.add(lLibroCopia1)
+
         Autor lAutor = new Autor("Jorge Villavicencio",new Date());
         oliverVirtual.registrarLibro(1, "Quien se robo mi queso", "Pucara",acoLibroCopia,lAutor,5);
         oliverVirtual.registrarLibro(2, "Caballero Carmelo", "",acoLibroCopia,lAutor,3);

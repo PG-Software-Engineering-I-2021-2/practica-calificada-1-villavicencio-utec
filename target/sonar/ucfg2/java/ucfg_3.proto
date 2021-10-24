@@ -1,22 +1,48 @@
 
-,pc1.Automovil#abastecer(D)Ljava/lang/String;“
-ˆ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/Automovil.java ("2"1*ï
-2“
-ˆ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/Automovil.java (L"Ó
-“
-ˆ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/Automovil.java (M;9
-7Automovil no se puede reabastecer el tanque, esta lleno*Ä
-1“
-ˆ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/Automovil.java (õ
-ò
-“
-ˆ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/Automovil.java (J
-%0java.lang.String"__concat*0.
-,La cantidad de combustible del vehiculo es: *
-"""°
-“
-ˆ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/Automovil.java (K
-
-%0java.lang.String:
-""B
-pc1.Automovil
+2pc1.OliverVirtual#getInstance()Lpc1/OliverVirtual;—
+Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java  (+"3*°
+2—
+Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java (*ÉÆ
+—
+Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java ((
+%1pc1.OliverVirtual"pc1.OliverVirtualÛ
+Ø
+—
+Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java (*
+%2"pc1.OliverVirtual#<init>()V*
+
+%1pc1.OliverVirtualá
+Þ
+—
+Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java (*!
+pc1.OliverVirtual"
+
+instance"__id*
+
+%1pc1.OliverVirtual*
+1*‰
+3—
+Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java (á
+Þ
+—
+Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java (
+%0pc1.OliverVirtual"__id*#*!
+pc1.OliverVirtual"
+
+instance*
+2
+1*¹
+1—
+Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java (á
+Þ
+—
+Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java (
+%3pc1.OliverVirtual"__id*#*!
+pc1.OliverVirtual"
+
+instance"µ
+—
+Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java (
+
+%3pc1.OliverVirtualB"
+pc1.OliverVirtual

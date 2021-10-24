@@ -1,71 +1,50 @@
 
-,pc1.Camion#fuelCantidad(D)Ljava/lang/String;ê
-Ö/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/Camion.java ("3*·
-2ê
-Ö/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/Camion.java (D"»
-ê
-Ö/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/Camion.java (E31
-/Camion necesita reabastecimiento de combustible*Õ
-3ê
-Ö/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/Camion.java- (3ŒÀ
-ê
-Ö/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/Camion.java (,
-%0java.text.DecimalFormat"java.text.DecimalFormat¸
-˘
-ê
-Ö/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/Camion.java (4
-%1"3java.text.DecimalFormat#<init>(Ljava/lang/String;)V*
-
-%0java.text.DecimalFormat*
-0.00‹
-Ÿ
-ê
-Ö/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/Camion.java (5
-dfjava.text.DecimalFormat"__id*
-
-%0java.text.DecimalFormat*
-2
-1*˘
-1ê
-Ö/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/Camion.java (”
-–
-ê
-Ö/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/Camion.java (+
-%2java.lang.String"__concat*
-Camion viajo *
-""Ë
-Â
-ê
-Ö/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/Camion.java (>
-%3java.lang.String"__concat*
-
-%2java.lang.String*
- km y aun tiene ñì
-ê
-Ö/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/Camion.java@ (S
-%4java.lang.String"2java.text.NumberFormat#format(D)Ljava/lang/String;*
-
-dfjava.text.DecimalFormat*
-""2	format(D)Ï
-È
-ê
-Ö/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/Camion.java (S
-%5java.lang.String"__concat*
-
-%3java.lang.String*
-
-%4java.lang.StringÁ
-‰
-ê
-Ö/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/Camion.java (f
-%6java.lang.String"__concat*
-
-%5java.lang.String*
- de combustible"≠
-ê
-Ö/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/Camion.java (h
-
-%6java.lang.String:
-""B
+7pc1.OliverVirtual#condicionMinima(Ljava/lang/Integer;)Zó
+å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java (""3*µ
+2ó
+å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java1 (;êç
+ó
+å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java1 (G
+%3java.lang.String",pc1.Estudiante#getCorreo()Ljava/lang/String;*
+
 
-pc1.Camion
+estudiantepc1.Estudiante2getCorreo()*
+1*Û
+3ó
+å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java  (+‡
+›
+ó
+å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java  (+
+%0java.util.Map"__id*&*$
+pc1.OliverVirtual"
+estudiantes˘
+ˆ
+ó
+å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java  (=
+%1pc1.Estudiante"__mapGet*
+
+%0java.util.Map*#
+!
+idEstudiantejava.lang.IntegerŸ
+÷
+ó
+å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java (>
+
+estudiantepc1.Estudiante"__id*
+
+%1pc1.Estudianteêç
+ó
+å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java (%
+%2java.lang.String",pc1.Estudiante#getCorreo()Ljava/lang/String;*
+
+
+estudiantepc1.Estudiante2getCorreo()*
+2
+1*¬
+1ó
+å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java (N"¢
+ó
+å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java (N
+"":!
+idEstudiantejava.lang.IntegerB
+pc1.OliverVirtual
