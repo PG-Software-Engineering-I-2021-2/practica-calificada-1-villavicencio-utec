@@ -1,4 +1,4 @@
-package apps;
+package pc1;
 
 public class LibroCopia {
 

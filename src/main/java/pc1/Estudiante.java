@@ -1,4 +1,4 @@
-package apps;
+package pc1;
 import java.util.logging.Logger;
 
 public class Estudiante {

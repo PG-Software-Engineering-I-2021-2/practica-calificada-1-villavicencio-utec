@@ -1,4 +1,4 @@
-package apps;
+package pc1;
 
 import org.junit.Assert;
 import org.junit.Test;
