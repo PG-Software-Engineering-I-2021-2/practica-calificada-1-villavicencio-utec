@@ -1,6 +1,7 @@
-pc1/Libro.class
-pc1/LibroCopia.class
-pc1/Oferta.class
-pc1/Autor.class
-pc1/Estudiante.class
-pc1/OliverVirtual.class
+pc/Oferta.class
+pc/Main.class
+pc/Estudiante.class
+pc/Autor.class
+pc/Libro.class
+pc/LibroCopia.class
+pc/OliverVirtual.class

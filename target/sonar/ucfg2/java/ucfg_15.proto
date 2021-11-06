@@ -1,16 +1,16 @@
 
-,pc1.Estudiante#getCorreo()Ljava/lang/String;î
-â/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/Estudiante.java ("1*©
-1î
-â/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/Estudiante.java (ÿ
-’
-î
-â/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/Estudiante.java (
-%0java.lang.String"__id**
-pc1.Estudiante"
-correo"±
-î
-â/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/Estudiante.java (
+'pc.Oferta#getNombre()Ljava/lang/String;è
+Ñ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc/Oferta.java ("1*ï
+1è
+Ñ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc/Oferta.java (Œ
+À
+è
+Ñ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc/Oferta.java (
+%0java.lang.String"__id**
+	pc.Oferta"
+nombre"¨
+è
+Ñ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc/Oferta.java (
 
-%0java.lang.StringB
-pc1.Estudiante
+%0java.lang.StringB
+	pc.Oferta

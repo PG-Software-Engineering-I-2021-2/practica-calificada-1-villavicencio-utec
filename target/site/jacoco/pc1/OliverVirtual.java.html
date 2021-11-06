@@ -2,48 +2,48 @@
 import java.util.List;
 import java.util.Map;
 import java.util.HashMap;
-<span class="nc" id="L5">public class OliverVirtual {</span>
+<span class="fc" id="L5">public class OliverVirtual {</span>
     private static OliverVirtual instance;
-<span class="nc" id="L7">    private Map&lt;Integer, Estudiante&gt; estudiantes = new HashMap&lt;&gt;();</span>
-<span class="nc" id="L8">    private Map&lt;Integer, Libro&gt; libros = new HashMap&lt;&gt;();</span>
+<span class="fc" id="L7">    private Map&lt;Integer, Estudiante&gt; estudiantes = new HashMap&lt;&gt;();</span>
+<span class="fc" id="L8">    private Map&lt;Integer, Libro&gt; libros = new HashMap&lt;&gt;();</span>
 
-<span class="nc" id="L10">    private Map&lt;Integer, HashMap&lt;Integer, Boolean&gt;&gt; libroEstudiante = new HashMap&lt;&gt;();</span>
+<span class="fc" id="L10">    private Map&lt;Integer, HashMap&lt;Integer, Boolean&gt;&gt; libroEstudiante = new HashMap&lt;&gt;();</span>
 
     //Validar el singleton para obtener solamente una instacia de oliver.
     public static OliverVirtual getInstance() {
-<span class="nc bnc" id="L14" title="All 2 branches missed.">        if(instance == null){</span>
-<span class="nc" id="L15">            instance = new OliverVirtual();</span>
+<span class="pc bpc" id="L14" title="1 of 2 branches missed.">        if(instance == null){</span>
+<span class="fc" id="L15">            instance = new OliverVirtual();</span>
         }
-<span class="nc" id="L17">        return instance;</span>
+<span class="fc" id="L17">        return instance;</span>
     }
     public void registrarEstudiante(Integer id,String nombre, String correo, String telefono){
-<span class="nc" id="L20">        estudiantes.put(id, new Estudiante(nombre, correo,telefono));</span>
-<span class="nc" id="L21">    }</span>
+<span class="fc" id="L20">        estudiantes.put(id, new Estudiante(nombre, correo,telefono));</span>
+<span class="fc" id="L21">    }</span>
     public void registrarLibro(Integer id, String nombre, String editorial, List&lt;LibroCopia&gt; copias, Autor autor, Integer cantidad){
-<span class="nc" id="L23">        libros.put(id,new Libro( nombre,  editorial, copias,  autor,cantidad));</span>
-<span class="nc" id="L24">    }</span>
+<span class="fc" id="L23">        libros.put(id,new Libro( nombre,  editorial, copias,  autor,cantidad));</span>
+<span class="fc" id="L24">    }</span>
     public boolean condicionMinima(Integer idEstudiante){
 <span class="nc" id="L26">        Estudiante estudiante = estudiantes.get(idEstudiante);</span>
 <span class="nc bnc" id="L27" title="All 4 branches missed.">        return estudiante.getCorreo() != null &amp;&amp; estudiante.getCorreo() != &quot;&quot;;</span>
     }
     public boolean vincularEstudianteLibro(Integer idEstudiante, Integer idLibro){
 //        if(condicionMinima(idEstudiante)) return false;
-<span class="nc" id="L31">        libroEstudiante.computeIfAbsent(idLibro, k -&gt; new HashMap&lt;Integer, Boolean&gt;());</span>
-<span class="nc" id="L32">        libroEstudiante.get(idLibro).put(idEstudiante, true);</span>
-<span class="nc" id="L33">        return true;</span>
+<span class="fc" id="L31">        libroEstudiante.computeIfAbsent(idLibro, k -&gt; new HashMap&lt;Integer, Boolean&gt;());</span>
+<span class="fc" id="L32">        libroEstudiante.get(idLibro).put(idEstudiante, true);</span>
+<span class="fc" id="L33">        return true;</span>
     }
 
     public boolean desvincularEstudianteLibro(Integer idEstudiante, Integer idLibro){
 //        if(condicionMinima(idEstudiante)) return false;
-<span class="nc" id="L38">        libroEstudiante.get(idLibro).put(idEstudiante, false);</span>
-<span class="nc" id="L39">        return true;</span>
+<span class="fc" id="L38">        libroEstudiante.get(idLibro).put(idEstudiante, false);</span>
+<span class="fc" id="L39">        return true;</span>
     }
     public boolean actualizarLibros(Integer idLibro,Integer cantidad){
-<span class="nc" id="L42">        var estudiantesLibros = libroEstudiante.get(idLibro);</span>
-<span class="nc bnc" id="L43" title="All 2 branches missed.">        for (Map.Entry&lt;Integer, Boolean&gt; entry : estudiantesLibros.entrySet()) {</span>
-<span class="nc bnc" id="L44" title="All 2 branches missed.">            if(entry.getValue()) estudiantes.get(entry.getKey()).notificarLibro();</span>
-<span class="nc" id="L45">        }</span>
-<span class="nc" id="L46">        return true;</span>
+<span class="fc" id="L42">        var estudiantesLibros = libroEstudiante.get(idLibro);</span>
+<span class="fc bfc" id="L43" title="All 2 branches covered.">        for (Map.Entry&lt;Integer, Boolean&gt; entry : estudiantesLibros.entrySet()) {</span>
+<span class="pc bpc" id="L44" title="1 of 2 branches missed.">            if(entry.getValue()) estudiantes.get(entry.getKey()).notificarLibro();</span>
+<span class="fc" id="L45">        }</span>
+<span class="fc" id="L46">        return true;</span>
     }
 
 }

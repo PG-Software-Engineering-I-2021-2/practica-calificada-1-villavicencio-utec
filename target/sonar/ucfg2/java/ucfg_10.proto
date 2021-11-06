@@ -1,98 +1,24 @@
 
-Kpc1.OliverVirtual#actualizarLibros(Ljava/lang/Integer;Ljava/lang/Integer;)Zó
-å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java) )(#"6*⁄
-2ó
-å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java+ +(.…
-∆
-ó
-å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java+ +(.
-entryjava.util.Map$Entry"__id*
-""Ê
-„
-ó
-å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java+ +(.
-entryjava.util.Map$Entry"
-__arrayGet*
-
-%2java.util.Set*
-""*
-4
-1*Ç	
-3ó
-å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java,! ,(,‡
-›
-ó
-å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java,! ,(,
-%4java.util.Map"__id*&*$
-pc1.OliverVirtual"
-estudiantesêç
-ó
-å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java,1 ,(?
-%5java.lang.Integer".java.util.Map$Entry#getKey()Ljava/lang/Object;*
-
-entryjava.util.Map$Entry2getKey()Ô
-Ï
-ó
-å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java,! ,(@
-%6pc1.Estudiante"__mapGet*
-
-%4java.util.Map*
-
-%5java.lang.IntegerıÚ
-ó
-å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java,! ,(Q
+&pc.Autor#getNombre()Ljava/lang/String;é
+É/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc/Autor.java	 	("1*ë
+1é
+É/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc/Autor.java
+ 
+(Ã
+…
+é
+É/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc/Autor.java
+ 
+(
+%0java.lang.String"__id**
 
-%7void" pc1.Estudiante#notificarLibro()V*
-
-%6pc1.Estudiante2notificarLibro()*
-2*º
-4ó
-å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java, ,(îë
-ó
-å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java, ,(
-%3java.lang.Boolean"0java.util.Map$Entry#getValue()Ljava/lang/Object;*
-
-entryjava.util.Map$Entry2
-getValue()*
-2
-3*∫
-5ó
-å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java+1 +(Bïí
-ó
-å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java+1 +(M
-%2java.util.Set"+java.util.HashMap#entrySet()Ljava/util/Set;*(
-&
-estudiantesLibrosjava.util.HashMap2
-entrySet()*
-2*Ï
-6ó
-å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java*  *(/‰
-·
-ó
-å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java*  *(/
-%0java.util.Map"__id***(
-pc1.OliverVirtual"
-libroEstudiante˜
-Ù
-ó
-å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java*  *(<
-%1java.util.HashMap"__mapGet*
-
-%0java.util.Map*
-
-idLibrojava.lang.IntegerÊ
-„
-ó
-å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java* *(=&
-estudiantesLibrosjava.util.HashMap"__id*
-
-%1java.util.HashMap*
-5*¬
-1ó
-å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java. .("¢
-ó
-å/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java. .(
-"":
-idLibrojava.lang.Integer:
-cantidadjava.lang.IntegerB
-pc1.OliverVirtual
+pc.Autor"
+nombre"´
+é
+É/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc/Autor.java
+ 
+(
+
+%0java.lang.StringB
+
+pc.Autor

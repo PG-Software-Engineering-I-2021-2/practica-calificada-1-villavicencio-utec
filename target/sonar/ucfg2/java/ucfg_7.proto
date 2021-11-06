@@ -1,20 +1,17 @@
 
-"__sonar_lambda_0$pc1.OliverVirtual—
-Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java1 (U"1*ÿ
-1—
-Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java6 (UÉÆ
-—
-Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java: (S
-%2java.util.HashMap"java.util.HashMapÛ
-Ø
-—
-Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java6 (U
-%3"java.util.HashMap#<init>()V*
-
-%2java.util.HashMap"µ
-—
-Œ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc1/OliverVirtual.java6 (U
-
-%2java.util.HashMap:
-kjava.lang.IntegerB
-java.util.function.Function
+-pc.Estudiante#getTelefono()Ljava/lang/String;“
+ˆ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc/Estudiante.java% %("1*§
+1“
+ˆ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc/Estudiante.java& &(Ø
+Õ
+“
+ˆ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc/Estudiante.java& &(
+%0java.lang.String"__id**
+pc.Estudiante"
+
+telefono"°
+“
+ˆ/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc/Estudiante.java& &(
+
+%0java.lang.StringB
+pc.Estudiante

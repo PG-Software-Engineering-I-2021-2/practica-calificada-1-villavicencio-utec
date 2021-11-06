@@ -1,0 +1,54 @@
+
+Qpc.OliverVirtual#vincularEstudianteLibro(Ljava/lang/Integer;Ljava/lang/Integer;)Z–
+‹/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc/OliverVirtual.java (*"1*Á
+1–
+‹/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc/OliverVirtual.java (â
+ß
+–
+‹/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc/OliverVirtual.java (
+%0java.util.Map"__id*)*'
+pc.OliverVirtual"
+libroEstudianteù
+ö
+–
+‹/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc/OliverVirtual.java1 (U!
+%1java.util.function.Function"__declareFunction*%#
+!__sonar_lambda_0$pc.OliverVirtualµ²
+–
+‹/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc/OliverVirtual.java (V
+%4java.util.HashMap"`java.util.Map#computeIfAbsent(Ljava/lang/Object;Ljava/util/function/Function;)Ljava/lang/Object;*
+
+%0java.util.Map*
+
+idLibrojava.lang.Integer*#
+!
+%1java.util.function.Function2@computeIfAbsent(Ljava/lang/Object;Ljava/util/function/Function;)â
+ß
+–
+‹/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc/OliverVirtual.java (
+%5java.util.Map"__id*)*'
+pc.OliverVirtual"
+libroEstudianteö
+ó
+–
+‹/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc/OliverVirtual.java ($
+%6java.util.HashMap"__mapGet*
+
+%5java.util.Map*
+
+idLibrojava.lang.Integer‡
+„
+–
+‹/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc/OliverVirtual.java (<
+%7java.lang.Boolean"__mapSet*
+
+%6java.util.HashMap*#
+!
+idEstudiantejava.lang.Integer*
+"""¡
+–
+‹/Users/villavant/Documents/Master Computer Science/IS/practica/practica-calificada-1-villavicencio-utec/src/main/java/pc/OliverVirtual.java (
+"":!
+idEstudiantejava.lang.Integer:
+idLibrojava.lang.IntegerB
+pc.OliverVirtual

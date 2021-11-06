@@ -1,7 +1,7 @@
 organization=pg-software-engineering-i-2021-2
 projectKey=org.example:practica-calificada-1-villavicencio-utec
 serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.24170
+serverVersion=8.0.0.24584
 dashboardUrl=https://sonarcloud.io/dashboard?id=org.example%3Apractica-calificada-1-villavicencio-utec
-ceTaskId=AXyv5C4ktayAr-CRsvgW
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXyv5C4ktayAr-CRsvgW
+ceTaskId=AXz3g38sMiWxAPFiT2Vv
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXz3g38sMiWxAPFiT2Vv
